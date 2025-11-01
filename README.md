@@ -21,8 +21,8 @@ My interests lie at the intersection of **machine learning, model alignment, and
 
 ###  Let’s Connect  
 -  Based in Amsterdam Area
-- 💼 [LinkedIn](https://www.linkedin.com/in/cinthya-nathaly-criollo-quiroz/)  
-- 🧑‍💻 [GitHub](https://github.com/cc1528)
+- [LinkedIn](https://www.linkedin.com/in/cinthya-nathaly-criollo-quiroz/)  
+- [GitHub](https://github.com/cc1528)
 - [Portfolio](https://cinthya-portfolio.vercel.app/#home)
 
 ---
