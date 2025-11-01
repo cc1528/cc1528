@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **Cinthya Criollo**, a Data Science student at the **University of Amsterdam**, currently focusing on **AI research and model fine-tuning**.  
+I'm **Cinthya Criollo**, an Artificial Intelligence student at the **University of Amsterdam**, currently focusing on **AI research and model fine-tuning**.  
 My interests lie at the intersection of **machine learning, model alignment, and data-driven system design**.  
 
 ---
