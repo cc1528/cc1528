@@ -7,7 +7,7 @@ My interests lie at the intersection of **machine learning, model alignment, and
 
 ### 🔭 Current Projects  
 -  **Medical Image Segmentation Thesis** — exploring model performance with **MedSAM** and **UniverSeg** for cross-domain generalization.  
--  **Research Collaboration: [LLaMA 2 7B Fine-tuning Study](https://github.com/org-or-user/repo-name)** — compared **In-Context Learning (ICL)**, **QLoRA**, and **Direct Preference Optimization (DPO)** to evaluate human preference alignment.  
+-  **Research Collaboration: [LLaMA 2 7B Fine-tuning Study](https://github.com/khna89/nlp2_project)** — compared **In-Context Learning (ICL)**, **QLoRA**, and **Direct Preference Optimization (DPO)** to evaluate human preference alignment.  
   Conducted within the **Natural Language Processing-2** course at the **University of Amsterdam**, in collaboration with [@khna89](https://github.com/khna89).  
 
 ---
