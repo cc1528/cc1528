@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**cc1528/cc1528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Cinthya Criollo**, a Data Science student at the **University of Amsterdam**, currently focusing on **AI research and model fine-tuning**.  
+My interests lie at the intersection of **machine learning, model alignment, and data-driven system design**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects  
+-  **Medical Image Segmentation Thesis** — exploring model performance with **MedSAM** and **UniverSeg** for cross-domain generalization.  
+-  **Research Collaboration: [LLaMA 2 7B Fine-tuning Study](https://github.com/org-or-user/repo-name)** — compared **In-Context Learning (ICL)**, **QLoRA**, and **Direct Preference Optimization (DPO)** to evaluate human preference alignment.  
+  Conducted within the **Natural Language Processing-2** course at the **University of Amsterdam**, in collaboration with [@khna89](https://github.com/khna89).  
+
+---
+
+###  Currently Learning  
+- Reinforcement Learning and model alignment techniques (ICL, DPO, RLHF)  
+- Advanced data engineering & visualization pipelines  
+- Dutch (B1–B2 level 🇳🇱)  
+
+---
+
+###  Let’s Connect  
+-  Based in Amsterdam Area
+- 💼 [LinkedIn](https://www.linkedin.com/in/cinthya-nathaly-criollo-quiroz/)  
+- 🧑‍💻 [GitHub](https://github.com/cc1528)
+- [Portfolio](https://cinthya-portfolio.vercel.app/#home)
+
+---
+
+✨ _“I enjoy building bridges between human insight and machine intelligence.”_  
