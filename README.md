@@ -5,10 +5,11 @@ My interests lie at the intersection of **machine learning, model alignment, and
 
 ---
 
-### 🔭 Current Projects  
+### 🔭 Projects  
 -  **Medical Image Segmentation Thesis**, exploring model performance with **MedSAM** and **UniverSeg** for cross-domain generalization.  
 -  **Research Collaboration: [LLaMA 2 7B Fine-tuning Study](https://github.com/khna89/nlp2_project)**, compared **In-Context Learning (ICL)**, **QLoRA**, and **Direct Preference Optimization (DPO)** to evaluate human preference alignment.  
-  Conducted within the **Natural Language Processing-2** course at the **University of Amsterdam**, in collaboration with [@khna89](https://github.com/khna89).  
+  Conducted within the **Natural Language Processing-2** course at the **University of Amsterdam**, in collaboration with [@khna89](https://github.com/khna89).
+- Currently working on a sick-plant detector. Please, check the repository: (https://github.com/cc1528/plant-health-ai)  
 
 ---
 
