@@ -8,7 +8,7 @@ My interests lie at the intersection of **machine learning, computer vision, inf
 
 ###  Projects & Research
 
-- **Medical Image Segmentation Thesis**: Compared **MedSAM** and **UniverSeg** for ultrasound image segmentation, exploring feature representations and support set selection.
+- **[Medical Image Segmentation Thesis](https://github.com/cc1528/MedSAM_Universeg_2024)**: Compared **MedSAM** and **UniverSeg** for ultrasound image segmentation, exploring feature representations and support set selection.
 
 - **[LLaMA 2 7B Fine-tuning Study](https://github.com/khna89/nlp2_project)**: Compared **In-Context Learning (ICL)**, **QLoRA**, and **Direct Preference Optimization (DPO)** for language model adaptation and preference alignment, during the NLP-2 course at the University of Amsterdam.
 
