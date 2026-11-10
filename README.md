@@ -10,7 +10,7 @@ My interests lie at the intersection of **machine learning, computer vision, inf
 
 - **Medical Image Segmentation Thesis**: Compared **MedSAM** and **UniverSeg** for ultrasound image segmentation, exploring feature representations and support set selection.
 
-- **Information Retrieval Research — ThinkQE**: Currently working on reproducing and analyzing reasoning-based query expansion methods for information retrieval, with a focus on retrieval effectiveness and experimental evaluation.
+- **Information Retrieval Research - ThinkQE**: Currently working on reproducing and analyzing reasoning-based query expansion methods for information retrieval, with a focus on retrieval effectiveness and experimental evaluation.
 
 - **[LLaMA 2 7B Fine-tuning Study](https://github.com/khna89/nlp2_project)**: Compared **In-Context Learning (ICL)**, **QLoRA**, and **Direct Preference Optimization (DPO)** for language model adaptation and preference alignment. Conducted during NLP-2 at the University of Amsterdam in collaboration with [@khna89](https://github.com/khna89).
 
