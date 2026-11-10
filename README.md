@@ -23,9 +23,9 @@ My interests lie at the intersection of **machine learning, computer vision, inf
 ###  Currently Learning & Exploring
 
 - **Deep Learning:** Neural networks, optimization, and model training
+-  **Medical AI:** Medical imaging, segmentation, and predictive modeling
 - **Computer Vision:** Image processing, feature extraction, and visual recognition
 - **Information Retrieval:** Retrieval-augmented generation, query expansion, and reasoning-based retrieval
-- **Medical AI:** Medical imaging, segmentation, and predictive modeling
 - **Dutch:** B1–B2 🇳🇱
 
 ---
