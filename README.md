@@ -1,6 +1,6 @@
 ## Hi there 
 
-I'm **Cinthya Criollo**, an MSc Artificial Intelligence student at the **University of Amsterdam**, with a background in Data Science and Economics.
+I am **Cinthya Criollo**, an MSc Artificial Intelligence student at the **University of Amsterdam**, with a background in Data Science and Economics.
 
 My interests lie at the intersection of **machine learning, computer vision, information retrieval, and AI research**, particularly in developing and evaluating intelligent systems.
 
