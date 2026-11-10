@@ -30,10 +30,11 @@ My interests lie at the intersection of **machine learning, computer vision, inf
 
 ###  Let's Connect
 
-Based in the Amsterdam area, Netherlands
-[LinkedIn](https://www.linkedin.com/in/cinthya-nathaly-criollo-quiroz/)
-[GitHub](https://github.com/cc1528)
-[Portfolio](https://cinthya-portfolio.vercel.app/#home)
+Based in the Amsterdam area, Netherlands \\
+
+[LinkedIn](https://www.linkedin.com/in/cinthya-nathaly-criollo-quiroz/) \\
+[GitHub](https://github.com/cc1528) \\ 
+[Portfolio](https://cinthya-portfolio.vercel.app/#home) \\
 
 ---
 
