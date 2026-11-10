@@ -28,4 +28,4 @@ My interests lie at the intersection of **machine learning, model alignment, and
 
 ---
 
-✨ _“I enjoy building bridges between human insight and machine intelligence.”_  
+ _“I enjoy building bridges between human insight and machine intelligence.”_  
