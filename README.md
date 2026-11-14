@@ -12,9 +12,8 @@ My interests lie at the intersection of **machine learning, computer vision, inf
 
 - **[LLaMA 2 7B Fine-tuning Study](https://github.com/khna89/nlp2_project)**: Compared **In-Context Learning (ICL)**, **QLoRA**, and **Direct Preference Optimization (DPO)** for language model adaptation and preference alignment.
 
-- **[Plant Health AI](https://github.com/cc1528/plant-health-ai)**: Developed a deep learning approach for detecting plant diseases from leaf images using computer vision and transfer learning.
-
 - **[Information Retrieval Research. ThinkQE](https://github.com/damidirad/Think_QE_IR2)**: Currently working on critical analysis and experimental evaluation of reasoning-based query expansion, focusing on query-level retrieval performance and effectiveness.
+
 
 ---
 
